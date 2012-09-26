@@ -1,0 +1,5 @@
+require 'flatpack/client/version'
+require 'flatpack/client/base_api'
+require 'flatpack/client/request'
+require 'flatpack/client/flatpack_request'
+require 'flatpack/client/json_request'
