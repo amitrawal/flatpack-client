@@ -15,5 +15,5 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = Flatpack::Client::VERSION
 
-  gem.add_dependency('flatpack_core', '=1.0.pre')
+  gem.add_dependency('flatpack_core', '~> 1.0')
 end
